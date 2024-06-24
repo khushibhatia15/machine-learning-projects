@@ -1,0 +1,15 @@
+This is a simple Language Translator project.
+I have also created a csv file to store all the translations that I am doing.
+It is pretty simple. 
+
+#The language translator project is designed to translate text from one language to another using the Google Translate API. This project includes a Python script that takes user input for the text to be translated, the source language, and the destination language. It then performs the translation and stores the original and translated text in a CSV file.
+
+Components
+Libraries Used
+-googletrans: A Python library that provides an interface to the Google Translate API.
+-csv: A built-in Python library for reading and writing CSV files.
+Script Breakdown
+-Importing Libraries: Import necessary libraries (googletrans and csv).
+-Function Definitions:
+-translate_text(text, src_lang, dest_lang): Translates the given text from the source language to the destination language using the googletrans library.
+-main(): Main function that handles user input, calls the translation function, and writes the results to a CSV file.
