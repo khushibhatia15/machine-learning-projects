@@ -9,3 +9,11 @@ This project aimed to gather and analyze historical weather data using the OpenW
 Note: Create an account on both OpenWeather Website and Geoname website.
   - OpenWeather website link: https://openweathermap.org/ (API key from this website is used to fetch the weather information)
   - Geoname Website link: https://www.geonames.org/ (the username from this account is used in the code)
+
+#🌿 Plant Disease Detection
+
+A simple deep learning project using CNN to detect plant diseases from leaf images.  
+Trained on the PlantVillage dataset with over 97% accuracy.
+
+🔗 [Open in Colab](https://colab.research.google.com/drive/1XvDhT2AMwLkcurKeWmgw_lTkHOEoPsTr?usp=sharing)
+📊 [Dataset on Kaggle](https://www.kaggle.com/datasets/emmarex/plantdisease)
